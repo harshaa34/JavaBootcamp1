@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05442dd3-adcb-4b78-bf37-c6b09a7efc08" name="Changes" comment="" />
+    <list default="true" id="05442dd3-adcb-4b78-bf37-c6b09a7efc08" name="Changes" comment="New Folder Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/harshaa34/JavaBootcamp1.git",
+    "accountId": "f926bc47-fb1d-46e6-a121-dd9e8567ebb3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -35,6 +41,19 @@
       <option name="presentableId" value="Default" />
       <updated>1732947144094</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Folder Added">
+      <option name="closed" value="true" />
+      <created>1732947320787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732947320787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Folder Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Folder Added" />
   </component>
 </project>
